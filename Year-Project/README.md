@@ -1,4 +1,4 @@
-# CUNI Individual Software Project 2023
+# MFF Individual Software Project 2023
 
 [Info](https://ksvi.mff.cuni.cz/~dingle/isp.html)
 
