@@ -1,6 +1,6 @@
 # MFF-UK
 
-My studies at the [MFF UK](https://www.mff.cuni.cz) in Prague 2022 - 2024.
+My studies at the [MFF UK](https://www.mff.cuni.cz) in Prague 2021 - 2024.
 
 Here are my main projects during my studies.
 
