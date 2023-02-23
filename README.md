@@ -11,6 +11,7 @@ Here are my main projects during my studies.
 **2 semeter**
 
 - Pacman - Game in Unity (C#, Adobe Illustrator)
+- Linux
 
 **3 semester**
 
