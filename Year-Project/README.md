@@ -45,4 +45,5 @@
 2. Kompilator
 3. Extention
 4. App for mobile (Xamarin)
-5. 
+5. Pouzivat BlockChain jako DB
+6. Vlastni BlockChain
