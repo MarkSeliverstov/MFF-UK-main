@@ -48,5 +48,5 @@
 5. Pouzivat BlockChain jako DB
 6. Vlastni BlockChain
 7. [blockChain pouzivani](https://www.vedomosti.ru/management/blogs/2018/04/18/767028-blokcheina-biznese)
-    logistics
-    применяем там где нужно прозрачно отслеживать "сделки"
+    - logistics
+    - применяем там где нужно прозрачно отслеживать "сделки"
