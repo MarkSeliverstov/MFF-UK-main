@@ -10,7 +10,7 @@ Here are my main projects during my studies.
 
 **2 semeter**
 
-- Pacman - Game in Unity (C#, Adobe Illustrator)
+- Pacman - Game in Unity (C#, Unity, Adobe Illustrator)
 - Linux - Tasks (Python, bash)
 
 **3 semester**
@@ -19,6 +19,12 @@ Here are my main projects during my studies.
 
 **4 semester**
 
-- Year Project
-- C# project
-- Web project
+- Year Project ()
+- C# project (Xamarin, MySQL, Adobe Illustrator)
+- Web project (React, Node JS, SQL?)
+
+**5 semestr**
+
+- bakalarka
+
+**6 semestr**
