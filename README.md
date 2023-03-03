@@ -20,7 +20,7 @@ Here are my main projects during my studies.
 **4 semester**
 
 - Year Project ()
-- C# project (Xamarin, MySQL, Adobe Illustrator) [ref](https://github.com/MarkSeliverstov/Echolalia)
+- [Echolalia](https://github.com/MarkSeliverstov/Echolalia) C# project (Xamarin, MySQL, Adobe Illustrator)
 - Web project (React, Node JS, SQL?)
 
 **5 semestr**
