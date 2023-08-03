@@ -20,11 +20,9 @@ Here are my main projects during my studies.
 **4 semester**
 
 - Year Project ()
-- [Echolalia](https://github.com/MarkSeliverstov/Echolalia) C# project (Xamarin, MySQL, Adobe Illustrator)
-- Web project (React, Node JS, SQL?)
+- [Echolalia](https://github.com/MarkSeliverstov/Echolalia) C# project (Xamarin, SQLite, Figma)
+- Web project - Crawler (Node JS, Svelte-kit, TypeScript, ModgoDB)
 
 **5 semestr**
-
-- bakalarka
 
 **6 semestr**
