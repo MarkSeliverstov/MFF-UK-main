@@ -2,26 +2,27 @@
 
 My studies at the [MFF UK](https://www.mff.cuni.cz) in Prague 2021 - 2024.
 
-Here are my main projects during my studies.
+### Here are my main projects during my studies.
 
 **1 semester:**
-- Sudoku - simple game (Python)
-- First site - simple site (HTML,CSS)
+- [Sudoku](https://github.com/MarkSeliverstov/MFF-UK/tree/main/Sudoku) - simple game (Python)
+- [First site](https://github.com/MarkSeliverstov/MFF-UK/tree/main/First-Site) - simple site (HTML,CSS)
 
 **2 semeter**
 
-- Pacman - Game in Unity (C#, Unity, Adobe Illustrator)
-- Linux - Tasks (Python, bash)
+- [Pacman](https://github.com/MarkSeliverstov/MFF-UK/tree/main/Pacman) - Game in Unity (C#, Unity, Adobe Illustrator)
+- [Linux - Tasks](https://github.com/MarkSeliverstov/MFF-UK/tree/main/Articles-Site) (Python, bash)
 
 **3 semester**
 
-- Articles Site (PHP, JS)
+- [Articles Site](https://github.com/MarkSeliverstov/MFF-UK/tree/main/Articles-Site) (PHP, JS)
 
 **4 semester**
 
-- Year Project ()
-- [Echolalia](https://github.com/MarkSeliverstov/Echolalia) C# project (Xamarin, SQLite, Figma)
-- Web project - Crawler (Node JS, Svelte-kit, TypeScript, ModgoDB)
+- [Year Project]() (NodeJS, TypeScript)
+- [Echolalia](https://github.com/MarkSeliverstov/Echolalia) - C# year project (Xamarin, SQLite, Figma)
+- [Crawler](https://github.com/MarkSeliverstov/MFF-WebTeamProject) - Advanced Web year project (NodeJS, Svelte-kit, TypeScript, ModgoDB)
+- [Statistics work]()
 
 **5 semestr**
 
