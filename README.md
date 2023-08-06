@@ -19,7 +19,7 @@ My studies at the [MFF UK](https://www.mff.cuni.cz) in Prague 2021 - 2024.
 
 **4 semester**
 
-- [Entity Inspector - VSCode Extension](https://github.com/MarkSeliverstov/MFF-YearProject) Year project that turns into a bachelor's work (NodeJS, TypeScript)
+- [Entity Inspector](https://github.com/MarkSeliverstov/MFF-YearProject) - VSCode Extension. It is the year project that turns into a bachelor's work (NodeJS, TypeScript)
 - [Echolalia](https://github.com/MarkSeliverstov/Echolalia) - C# year project (C#, Xamarin, SQLite, Figma)
 - [Crawler](https://github.com/MarkSeliverstov/MFF-WebTeamProject) - Advanced Web year project (NodeJS, Svelte-kit, TypeScript, ModgoDB)
 - [Statistical work](https://github.com/MarkSeliverstov/MFF-statistical-work)
