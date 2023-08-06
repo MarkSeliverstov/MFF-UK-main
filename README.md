@@ -20,7 +20,7 @@ My studies at the [MFF UK](https://www.mff.cuni.cz) in Prague 2021 - 2024.
 **4 semester**
 
 - [Year Project]() (NodeJS, TypeScript)
-- [Echolalia](https://github.com/MarkSeliverstov/Echolalia) - C# year project (Xamarin, SQLite, Figma)
+- [Echolalia](https://github.com/MarkSeliverstov/Echolalia) - C# year project (C#, Xamarin, SQLite, Figma)
 - [Crawler](https://github.com/MarkSeliverstov/MFF-WebTeamProject) - Advanced Web year project (NodeJS, Svelte-kit, TypeScript, ModgoDB)
 - [Statistical work](https://github.com/MarkSeliverstov/MFF-statistical-work)
 
