@@ -19,10 +19,10 @@ My studies at the [MFF UK](https://www.mff.cuni.cz) in Prague 2021 - 2024.
 
 **4 semester**
 
-- [Entity Inspector](https://github.com/MarkSeliverstov/MFF-YearProject) - VSCode Extension.Year project that turns into a bachelor's work (NodeJS, TypeScript)
+- [Entity Inspector](https://github.com/MarkSeliverstov/MFF-YearProject) - VSCode Extension. Year project that turns into a bachelor's work (NodeJS, TypeScript)
 - [Echolalia](https://github.com/MarkSeliverstov/Echolalia) - Mobile application. C# year project (C#, Xamarin, SQLite, Figma)
-- [Crawler](https://github.com/MarkSeliverstov/MFF-WebTeamProject) - Advanced web team project (NodeJS, Svelte-kit, TypeScript, ModgoDB)
-- [Statistical work](https://github.com/MarkSeliverstov/MFF-statistical-work)
+- [Crawler](https://github.com/MarkSeliverstov/MFF-WebTeamProject) - Advanced web team project (TypeScript, NodeJS, Svelte-kit, ModgoDB, GraphQL)
+- [Statistical work](https://github.com/MarkSeliverstov/MFF-statistical-work) - Statistical analysis of a dataset that explores various health-related factors  (Jupyter Notebook, Python 3.11 with libraries: pandas, matplotlib, scipy)
 
 **5 semestr**
 
